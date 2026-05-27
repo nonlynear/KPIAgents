@@ -15,10 +15,10 @@ This repository contains four Claude system-prompt markdown files, each defining
 
 | Agent | Role | Core Metric | File |
 |---|---|---|---|
-| **Key Person of Influence** | Face of the business — visibility, content, and authority | Subscriber & follower growth, quality ICP attention | `agents/01-key-person-of-influence.md` |
-| **Head of Growth** | Speed to market — leads, sales, and revenue every week | LAPS dashboard (Leads · Appointments · Presentations · Sales) | `agents/02-head-of-growth.md` |
-| **Head of Delight** | Product & customer success — every client gets what was promised | NPS / experience score, referrals, new features shipped | `agents/03-head-of-delight.md` |
-| **High Agency Generalist** | Master agent — General Manager & Executive Assistant | Central business dashboard, red/amber/green to-do list, issues register | `agents/04-high-agency-generalist.md` |
+| ⚡ **Harry** — Key Person of Influence | Face of the business — visibility, content, and authority | Subscriber & follower growth, quality ICP attention | `agents/01-harry-key-person-of-influence.md` |
+| 🎆 **Fred** — Head of Growth | Speed to market — leads, sales, and revenue every week | LAPS dashboard (Leads · Appointments · Presentations · Sales) | `agents/02-fred-head-of-growth.md` |
+| 🧶 **Molly** — Head of Delight | Product & customer success — every client gets what was promised | NPS / experience score, referrals, new features shipped | `agents/03-molly-head-of-delight.md` |
+| 📚 **Hermione** — High Agency Generalist | Master agent — General Manager & Executive Assistant | Central business dashboard, red/amber/green to-do list, issues register | `agents/04-hermione-high-agency-generalist.md` |
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains four Claude system-prompt markdown files, each defining
 2. **Paste the entire contents** of the relevant markdown file as your first message, or configure it as the system prompt.
 3. **Start talking to the agent** — it will operate within its defined role, metrics, and responsibilities.
 
-> **Default entry point:** Start most conversations with the **High Agency Generalist** (`04-high-agency-generalist.md`). It acts as your General Manager and will route tasks to the right specialist agent, prepare your weekly TAP meeting, and maintain your central business dashboard.
+> **Default entry point:** Start most conversations with **Hermione** (`04-hermione-high-agency-generalist.md`). She acts as your General Manager and will route tasks to the right specialist agent, prepare your weekly TAP meeting, and maintain your central business dashboard.
 
 ---
 
